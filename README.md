@@ -8,7 +8,6 @@ I'm a career-changer with a diverse professional background spanning logistics, 
 
 While I don’t come from a traditional tech path, I bring a unique mix of discipline, problem-solving, and operational awareness from my previous roles — skills I now apply to labs, tools, and training environments focused on **SOC operations**, **incident response**, and **automation**.
 
-My goal is clear: to transition into the cybersecurity field and grow as a **Security Analyst**, starting from a hands-on Tier 1 role where I can monitor threats, investigate alerts, and contribute to keeping systems secure.
 ---
 
 ## 🎯 Objective
