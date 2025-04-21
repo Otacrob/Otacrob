@@ -1,11 +1,14 @@
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Enrico
 
 <a href="https://linkedin.com/in/enrico-favaro-b57301196" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm a recent Computer Science graduate with a strong passion for **cybersecurity** and a hands-on approach to solving technical challenges. I'm actively seeking opportunities to contribute to a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply and expand my skills in threat detection, incident response, and security automation.
+I'm a career-changer with a diverse professional background spanning logistics, purchasing, and hospitality. Over the past few years, I’ve developed a growing passion for **Cybersecurity**, driven by curiosity, continuous learning, and a desire to solve real-world digital threats.
 
+While I don’t come from a traditional tech path, I bring a unique mix of discipline, problem-solving, and operational awareness from my previous roles — skills I now apply to labs, tools, and training environments focused on **SOC operations**, **incident response**, and **automation**.
+
+My goal is clear: to transition into the cybersecurity field and grow as a **Security Analyst**, starting from a hands-on Tier 1 role where I can monitor threats, investigate alerts, and contribute to keeping systems secure.
 ---
 
 ## 🎯 Objective
