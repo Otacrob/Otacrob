@@ -1,6 +1,7 @@
-# 👋 Hello, I'm Enrico
+<h1 align="center">🛡️# 👋 Hello, I'm Enrico</h1>
+<p align="center"><i>Welcome to my repository</i></p>
 
-<a href="https://linkedin.com/in/enrico-favaro-b57301196" target="_blank">
+<p align="center"><a href="https://linkedin.com/in/enrico-favaro-b57301196" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -18,14 +19,9 @@ To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively 
 
 ## 💡 Skills & Projects
 
-| Skill                                             | Project Link                          |
-|--------------------------------------------------|----------------------------------------|
-| SIEM Implementation & Log Analysis               | [Detection Lab](https://yourprojectlink.com) |
-| Network Traffic Monitoring & Attack Detection    | [Detection Lab](https://yourprojectlink.com) |
-| Security Automation (SOAR with Shuffle)          | [SOC Automation Lab](https://yourprojectlink.com) |
-| Incident Response Execution & Playbooks          | [SOC Automation Lab](https://yourprojectlink.com) |
-| Threat Case Management using TheHive             | [SOC Automation Lab](https://yourprojectlink.com) |
-| Scripting for Mitigation & Reporting             | [SOC Automation Lab](https://yourprojectlink.com) |
+| Skill                                                | Project Link                                 |
+|------------------------------------------------------|----------------------------------------------|
+|  Network Traffic Monitoring & Attack Detection<br>(SNORT+ZEEK)      | [Detection Lab](https://yourprojectlink.com) |                                       |                                              |
 
 ---
 
