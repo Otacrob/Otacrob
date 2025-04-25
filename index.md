@@ -120,7 +120,7 @@
       </tr>
       <tr>
         <td>Network Traffic Monitoring & Attack Detection<br>(SNORT + ZEEK)</td>
-        <td><a href="https://yourprojectlink.com" target="_blank">Detection Lab</a></td>
+        <td><a href="https://github.com/Otacrob/Rilevare-e-risolvere-connessione-remota-non-autorizzata" target="_blank">Detection Lab</a></td>
       </tr>
       <!-- Add more rows as you grow -->
     </table>
