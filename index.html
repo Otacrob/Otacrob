@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CyberToolz Terminal</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #00ff00;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 2em;
+    }
+    .terminal {
+      background: #000;
+      border: 1px solid #00ff00;
+      padding: 1.5em;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #00ff00;
+      max-width: 800px;
+      margin: auto;
+    }
+    .cursor {
+      display: inline-block;
+      width: 10px;
+      height: 1em;
+      background-color: #00ff00;
+      animation: blink 1s infinite;
+      vertical-align: bottom;
+    }
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="terminal">
+    <p>> Initializing CyberToolz...</p>
+    <p>> Loading modules: recon.py, osint.py, exploits.py</p>
+    <p>> Scan started on target <strong>192.168.1.1</strong></p>
+    <p>> Found open ports: 22, 80, 443</p>
+    <p>> Analysis complete. <span class="cursor"></span></p>
+  </div>
+</body>
+</html>
