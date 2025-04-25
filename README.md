@@ -21,7 +21,7 @@ To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively 
 
 | Skill                                                | Project Link                                 |
 |------------------------------------------------------|----------------------------------------------|
-|  Network Traffic Monitoring & Attack Detection<br>(SNORT+ZEEK)      | [Detection Lab]([https://github.com/Otacrob/Rilevare-e-risolvere-connessione-remota-non-autorizzata]) |                                       |                                              |
+|  Network Traffic Monitoring & Attack Detection<br>(SNORT+ZEEK)      | [Detection Lab](https://github.com/Otacrob/Rilevare-e-risolvere-connessione-remota-non-autorizzata) |                                       |                                              |
 
 ---
 
