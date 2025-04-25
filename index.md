@@ -1,123 +1,130 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>_root@enrico:~</title>
+  <style>
+    body {
+      background-color: #0d0d0d;
+      color: #33ff33;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 2rem;
+    }
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+    h1, h2, h3 {
+      color: #00ff99;
+      text-align: center;
+    }
 
-[Link to another page](./another-page.html).
+    a {
+      color: #33ccff;
+      text-decoration: none;
+    }
 
-There should be whitespace between paragraphs.
+    a:hover {
+      text-decoration: underline;
+    }
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+    .section {
+      margin-bottom: 2.5rem;
+    }
 
-# Header 1
+    .intro, .skills {
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+    .badge {
+      display: inline-block;
+      margin-top: 1rem;
+      text-align: center;
+    }
 
-## Header 2
+    .badge img {
+      height: 30px;
+    }
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+    table {
+      margin-top: 1rem;
+      width: 100%;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      border-collapse: collapse;
+    }
 
-### Header 3
+    th, td {
+      padding: 0.8rem;
+      border-bottom: 1px solid #33ff33;
+      text-align: left;
+    }
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+    .cursor {
+      font-weight: bold;
+      font-size: 1.2rem;
+      color: #33ff33;
+      animation: blink 1s step-start infinite;
+    }
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
 
-#### Header 4
+    hr {
+      border: none;
+      border-top: 1px solid #33ff33;
+      margin: 2rem auto;
+      width: 80%;
+    }
+  </style>
+</head>
+<body>
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+  <h1>🛡️# 👋 Hello, I'm Enrico <span class="cursor">|</span></h1>
+  <p style="text-align:center;"><i>Welcome to my repository</i></p>
 
-##### Header 5
+  <div class="badge">
+    <a href="https://linkedin.com/in/enrico-favaro-b57301196" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+  <div class="section intro">
+    <p>
+      I'm a career-changer with a diverse professional background spanning logistics, purchasing, and hospitality. Over the past few years, I’ve developed a growing passion for <strong>Cybersecurity</strong>, driven by curiosity, continuous learning, and a desire to solve real-world digital threats.
+    </p>
+    <p>
+      While I don’t come from a traditional tech path, I bring a unique mix of discipline, problem-solving, and operational awareness from my previous roles — skills I now apply to labs, tools, and training environments focused on <strong>SOC operations</strong>, <strong>incident response</strong>, and <strong>automation</strong>.
+    </p>
+  </div>
 
-###### Header 6
+  <hr>
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+  <div class="section">
+    <h2>🎯 Objective</h2>
+    <p class="intro">
+      To join a dynamic SOC team as a <strong>Cybersecurity Analyst (Tier 1)</strong> and actively contribute to protecting organizational assets while continuously learning and growing within the field of cybersecurity.
+    </p>
+  </div>
 
-### There's a horizontal rule below this.
+  <hr>
 
-* * *
+  <div class="section">
+    <h2>💡 Skills & Projects</h2>
+    <table>
+      <tr>
+        <th>Skill</th>
+        <th>Project Link</th>
+      </tr>
+      <tr>
+        <td>Network Traffic Monitoring & Attack Detection<br>(SNORT + ZEEK)</td>
+        <td><a href="https://yourprojectlink.com" target="_blank">Detection Lab</a></td>
+      </tr>
+      <!-- Add more rows as you grow -->
+    </table>
+  </div>
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+</body>
+</html>
