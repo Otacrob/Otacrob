@@ -122,6 +122,10 @@
         <td>Network Traffic Monitoring & Attack Detection<br>(SNORT + ZEEK)</td>
         <td><a href="https://github.com/Otacrob/Rilevare-e-risolvere-connessione-remota-non-autorizzata" target="_blank">Detection Lab</a></td>
       </tr>
+      <tr>
+        <td>Wazuh + Sysmon SIEM Lab – Windows Endpoint Monitoring</td>
+        <td><a href="https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md" target="_blank">Detection Lab</a></td>
+      </tr>
       <!-- Add more rows as you grow -->
     </table>
   </div>
