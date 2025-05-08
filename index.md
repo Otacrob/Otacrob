@@ -124,7 +124,7 @@
       </tr>
       <tr>
         <td>Wazuh + Sysmon SIEM Lab – Windows Endpoint Monitoring</td>
-        <td><a href="https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md" target="_blank">Detection Lab</a></td>
+        <td><a href="https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md" target="_blank">Wazuh Lab</a></td>
       </tr>
       <!-- Add more rows as you grow -->
     </table>
