@@ -126,6 +126,10 @@
         <td>Wazuh + Sysmon SIEM Lab – Windows Endpoint Monitoring</td>
         <td><a href="https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md" target="_blank">Wazuh Lab</a></td>
       </tr>
+       <tr>
+        <td>Malware Analysis Lab - FlareVM + REMnux</td>
+        <td><a href="https://github.com/Otacrob/Malware_Analysis_Lab/tree/main" target="_blank">Malware Analysis Lab</a></td>
+      </tr>
       <!-- Add more rows as you grow -->
     </table>
   </div>
