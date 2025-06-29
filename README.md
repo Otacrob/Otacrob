@@ -24,6 +24,7 @@ To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively 
 |  Network Traffic Monitoring & Attack Detection<br>(SNORT+ZEEK)      | [Detection Lab](https://github.com/Otacrob/Rilevare-e-risolvere-connessione-remota-non-autorizzata) |
 |  Wazuh + Sysmon SIEM Lab – Windows Endpoint Monitoring     | [Wazuh Lab](https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md)                                           |
 |  Malware Analysis Lab - FlareVM + REMnux                   | [Malware Analysis Lab](https://github.com/Otacrob/Malware_Analysis_Lab/tree/main)                            |
+|  Metasploitable3 Lab - PenTesting                          | [Metasploitable3 Lab](https://github.com/Otacrob/Metasploitable3) |
 ---
 
 ## 🛠️ Tools & Technologies
@@ -78,8 +79,8 @@ To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively 
 
 If you're a recruiter or security professional looking for someone with hands-on cybersecurity experience and a learner’s mindset, feel free to reach out!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [efavaro96@gmail.com](mailto:efavaro96@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/enrico-favaro-b57301196/](https://www.linkedin.com/in/enrico-favaro-b57301196/)
 
 ---
 
