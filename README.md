@@ -1,4 +1,4 @@
-<h1 align="center">🛡️# 👋 Hello, I'm Enrico</h1>
+<h1 align="center">🛡️👋 Hello, I'm Enrico</h1>
 <p align="center"><i>Welcome to my repository</i></p>
 
 <p align="center"><a href="https://linkedin.com/in/enrico-favaro-b57301196" target="_blank">
