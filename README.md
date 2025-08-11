@@ -13,7 +13,7 @@ While I don’t come from a traditional tech path, I bring a unique mix of disci
 
 ## 🎯 Objective
 
-To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively contribute to protecting organizational assets while continuously learning and growing within the field of cybersecurity.
+To join a dynamic team as a **Cybersecurity Analyst (Tier 1)** and actively contribute to protecting organizational assets while continuously learning and growing within the field of cybersecurity.
 
 ---
 
