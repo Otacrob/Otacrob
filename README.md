@@ -25,6 +25,7 @@ To join a dynamic SOC team as a **Cybersecurity Analyst (Tier 1)** and actively 
 |  Wazuh + Sysmon SIEM Lab – Windows Endpoint Monitoring     | [Wazuh Lab](https://github.com/Otacrob/Wazuh_and_Sysmon_SIEM_Lab/blob/main/README.md)                                           |
 |  Malware Analysis Lab - FlareVM + REMnux                   | [Malware Analysis Lab](https://github.com/Otacrob/Malware_Analysis_Lab/tree/main)                            |
 |  Metasploitable3 Lab - PenTesting                          | [Metasploitable3 Lab](https://github.com/Otacrob/Metasploitable3) |
+|  BlackBox Lab - PenTesting                          | [BSidesVancouver2018 Lab](https://github.com/Otacrob/BlackBox_Attack_BSidesVancouver2018) |
 ---
 
 ## 🛠️ Tools & Technologies
