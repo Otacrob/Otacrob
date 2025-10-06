@@ -49,6 +49,13 @@ To join a dynamic team as a **Cybersecurity Analyst** and actively contribute to
 |  Vulnlab - Jungow01 | [Jungow01](https://github.com/Otacrob/EPIC_Consegne/blob/main/UNIT2/S4/L5/BlackBox_jangow01.pdf) |
 |  Metasploitable3 Lab - PenTesting                          | [Metasploitable3 Lab](https://github.com/Otacrob/Metasploitable3) |
 
+### 🗂️ Active Directory
+
+| Skill                                                | Report Link                                 |
+|------------------------------------------------------|----------------------------------------------|
+| AD Project | [Company Project](https://github.com/Otacrob/EPIC_Consegne/blob/main/UNIT3/S2/L5/Esercizio_S9_L5_WinServer_2022.pdf) |
+
+
 ---
 
 ## 🛠️ Tools & Technologies
